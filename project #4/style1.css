@@ -1,0 +1,31 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    column-gap: 300px;
+    row-gap: 50px;
+  }
+  
+  
+.grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .grid-item2 {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    
+  }
+  
+  .image {
+    display: block;
+    width:300px;
+    height:300px;
+  }
+  
+  .container:hover .overlay {
+    opacity: 1;
+  }
+  

@@ -1,0 +1,25 @@
+body {
+	
+    
+	background-image:url(Untitled.pdf.jpg);
+	background-size: contain;
+}
+
+p {
+    font-size: 62px;
+    font-family: 'Retro Italics';
+color: white;
+text-align: center;
+}
+
+.container {
+    align-items: center;
+    height: 20vh;
+
+}
+
+.container1 {
+    align-items: center;
+    height: 40vh;
+
+}
